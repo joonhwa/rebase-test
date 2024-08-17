@@ -1,3 +1,3 @@
 # rebase-test
 
-Edit 6
+Edit 7
